@@ -25,4 +25,4 @@ function getOutput() {
     console.log(obj.firstName + " " + obj.lastN);
 }
 
-getFullName("Atul", "Bansal");
+getFullName("play", "boy");
